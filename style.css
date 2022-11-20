@@ -28,7 +28,7 @@
 }
 /* spacing on all sections */
 #about, #services, #project, #contact {
-    margin-top: 10rem;
+    margin-top: 7rem;
     padding-top: 10rem;
 }
 #contact {
